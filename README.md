@@ -6,23 +6,23 @@
 ## 🚀 Technical Skills
 
 ### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) `90%`
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) `75%`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) `80%`
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) `82%`
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) `78%`
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) `85%`
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?logo=ai&logoColor=white) `75%`
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4ECDC4?logo=chart-bar&logoColor=white) `70%`
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?logo=ai&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4ECDC4?logo=chart-bar&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) `85%`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4CAF50?logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) `83%`
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
