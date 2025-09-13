@@ -3,40 +3,51 @@
 
 ---
 
-## 🚀 Kỹ năng
+## 🚀 Technical Skills
 
-### 🖥️ Ngôn ngữ lập trình
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) `90%`
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) `75%`
 
 ### 🧩 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) `80%`
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) `82%`
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) `78%`
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) `85%`
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?logo=ai&logoColor=white) `75%`
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4ECDC4?logo=chart-bar&logoColor=white) `70%`
 
-### 🛠️ Cơ sở dữ liệu & Công cụ
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) `85%`
+![MongoDB](https://img.shields.io/badge/MongoDB-4CAF50?logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) `83%`
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+---
+
+## 🔧 Additional Technologies
+- TensorFlow 🧠
+- Hadoop 🗄️
+- Apache Spark 🔥
+- Google Cloud ☁️
+- Tableau 📊
+- Scikit-learn 🤖
+- NumPy ➗
+- Pandas 🐼
+- Elasticsearch 🔍
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranlanh3009&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranlanh3009&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Liên hệ
-- 📧 Email: tranlanh3009@gmail.com  
-- 🌍 Portfolio: [your-portfolio-link](https://github.com/tranlanh3009)  
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/)  
+- 📧 Email: **tranlanh3009@gmail.com**  
+- 🌍 Portfolio: [github.com/tranlanh3009](https://github.com/tranlanh3009)  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/)  
